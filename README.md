@@ -8,3 +8,4 @@ Direct the absolute path to the location you saved to program using **dir and **
 Next, run the Makefile to execute the program. <br>
 Remember, you can change the Makefile any way you want. <br>
 # The Logic Behind the design
+![Screenshot 2024-01-07 190126](https://github.com/Neil-Patel-12/Photoshop_Clone/assets/108227267/8b30d5f0-69ac-48bc-a91e-bdf48d21bd59) <br>
